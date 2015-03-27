@@ -1,0 +1,12 @@
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\bin\Debug\CST211GradeMe.exe
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\bin\Debug\CST211GradeMe.pdb
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\bin\Debug\CST211ADTLibrary.dll
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\bin\Debug\CST211ADTLibrary.pdb
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\obj\x86\Debug\CST211GradeMe.Form1.resources
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\obj\x86\Debug\CST211GradeMe.GradeMeForm.resources
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\obj\x86\Debug\CST211GradeMe.Properties.Resources.resources
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\obj\x86\Debug\CST211GradeMe.exe
+C:\Users\LR10\Desktop\CST211GradeMe v1 handout\CST211GradeMe\obj\x86\Debug\CST211GradeMe.pdb
